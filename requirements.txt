@@ -1,0 +1,3 @@
+Flask>=1.1.2
+pyTelegramBotAPI==4.2.2
+beautifulsoup4
